@@ -89,7 +89,8 @@ The dataset contains outlet-level retail data from Blinkit including:
 
 Feel free to connect and share feedback!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/janvhi2308)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/janvhi-chaurasia)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:2k24.cs.1i.2413893@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/janvhi2308)
 
 ---
