@@ -83,7 +83,19 @@ The dataset contains outlet-level retail data from Blinkit including:
 
 ## 🎥 Demo
 
-> Watch the screen recording `Screen Recording 2026-05-31 181221.mp4` in this repo for a full walkthrough of the dashboard.
+<p align="center">
+  <a href="https://youtu.be/TrGVRbntKH0" target="_blank">
+    <img src="https://img.youtube.com/vi/TrGVRbntKH0/maxresdefault.jpg" 
+         alt="Blinkit Sales Analysis Dashboard - Demo Video" 
+         width="100%" style="border-radius:10px;"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/TrGVRbntKH0">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/>
+  </a>
+</p>
 
 ## 📬 Contact
 
