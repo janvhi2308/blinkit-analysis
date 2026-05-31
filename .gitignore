@@ -1,0 +1,24 @@
+# Power BI generated files
+*.pbix.bak
+*.pbix.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Windows shortcuts
+*.lnk
+
+# Temporary files
+~$*
+*.tmp
+
+# Visual Studio Code settings
+.vscode/
+
+# Node modules (if any scripts added later)
+node_modules/
+
+# Log files
+*.log
