@@ -49,7 +49,7 @@ Blinkit Analysis/
 
 1. **Clone** this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/blinkit-analysis.git
+   git clone https://github.com/janvhi2308/blinkit-analysis.git
    ```
 
 2. **Open** `blinkkit.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free download)
@@ -89,8 +89,8 @@ The dataset contains outlet-level retail data from Blinkit including:
 
 Feel free to connect and share feedback!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/janvhi2308)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/janvhi2308)
 
 ---
 
