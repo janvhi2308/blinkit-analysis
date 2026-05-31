@@ -1,7 +1,7 @@
 # 🛒 Blinkit Sales Analysis - Power BI Dashboard
 
 <p align="center">
-  <img src="Screenshot (27).png" alt="Blinkit Sales Dashboard" width="100%"/>
+  <img src="Blinkit Analysis.png" alt="Blinkit Sales Dashboard" width="100%"/>
 </p>
 
 ## 📊 Project Overview
@@ -38,9 +38,9 @@ This project is an end-to-end **Sales Analysis Dashboard** built in **Power BI**
 ```
 Blinkit Analysis/
 │
-├── blinkkit.pbix              # Power BI Desktop project file
-├── Screenshot (27).png        # Dashboard preview image
-├── Screen Recording *.mp4     # Demo walkthrough video
+├── Blinkit Analysis.pbix      # Power BI Desktop project file
+├── Blinkit Analysis.png       # Dashboard preview image
+├── Blinkit Analysis.mp4       # Demo walkthrough video
 ├── README.md                  # Project documentation (this file)
 └── .gitignore                 # Git ignore rules
 ```
@@ -52,7 +52,7 @@ Blinkit Analysis/
    git clone https://github.com/janvhi2308/blinkit-analysis.git
    ```
 
-2. **Open** `blinkkit.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free download)
+2. **Open** `Blinkit Analysis.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free download)
 
 3. **Interact** with the slicers to explore data by outlet location, size, and item type
 
